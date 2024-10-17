@@ -1,6 +1,7 @@
-Here is your README in markdown format:
+Here's a README template for your GitHub repository based on the provided file structure and descriptions:
 
-```markdown
+---
+
 # Multimodal Few-Shot Learning with Prompt-Based Sentiment Detection
 
 ## Overview
@@ -45,5 +46,6 @@ This repository contains the implementation of a multimodal few-shot learning fr
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
+
+---
 
