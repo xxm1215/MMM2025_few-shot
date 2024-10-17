@@ -1,6 +1,4 @@
-Here's a README template for your GitHub repository based on the provided file structure and descriptions:
 
----
 
 # Multimodal Few-Shot Learning with Prompt-Based Sentiment Detection
 
