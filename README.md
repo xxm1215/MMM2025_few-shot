@@ -4,7 +4,7 @@
 
 ## Overview
 
-This repository contains the implementation of a multimodal few-shot learning framework using prompt-based methods for sentiment analysis and fake news detection. The project is structured to handle image and text data using multimodal fusion techniques.
+This repository is an implementation of the paper "AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection". It is an implementation of a multimodal few-shot learning framework for sentiment analysis and fake news detection using a prompt-based approach. The project is structured to process image and text data using multimodal fusion techniques.
 
 ## File Structure
 
