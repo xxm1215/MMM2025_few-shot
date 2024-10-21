@@ -1,6 +1,6 @@
 
 
-# Multimodal Few-Shot Learning with Prompt-Based Sentiment Detection
+# AMPLE: Emotion-Aware Multimodal Fusion Prompt Learning for Fake News Detection
 
 ## Overview
 
